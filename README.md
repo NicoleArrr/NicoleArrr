@@ -48,6 +48,11 @@ Mis tiempos libres usualmente los dedico a aprender sobre UI/UX Design, Cómo me
 </div>
 
 
+<img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExYzFhNjI2YmQ5ZDY4ZDI4ZDJmNDRhMzFkZWZkZDY1NzIxYTI1YzRlYiZlcD12MV9pbnRlcm5hbF9naWZzX2dpZklkJmN0PWc/WFZvB7VIXBgiz3oDXE/giphy.gif" width="30"/> Herramientas
+
+<div align="center">
+  <img src="https://skillicons.dev/icons?i=git,vscode,figma,&perline=7" alt="Tech stack" />
+</div>
 <!--
 **NicoleArrr/NicoleArrr** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
