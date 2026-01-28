@@ -22,48 +22,31 @@ Mis tiempos libres usualmente los dedico a aprender sobre UI/UX Design, Cómo me
 </div>
 
 
-<table style="width: 75%;" align="center">
+<div align="center">
+  <table>
+    <tr>
+      <td align="center">
+        <p> Resolución de Conflictos<p>
+      </td>
+      <td align="center">
+        <p> Pensamiento Crítico<p>
+      </td>
+      <td align="center">
+        <p> Trabajo en Equipo<p>
+      </td>
+    </tr>
+    <tr>
+      <td align="center">
+        <p> Atención al Detalle<p>
+      </td>
+      <td align="center">
+        <p> Comunicación Asertiva<p>
+      <td align="center">
+        <p> Creatividad<p>
+    </tr>
+  </table>
+</div>
 
-  <!-- Fila 1 -->
-  <tr>
-    <td style="width: 50%; padding: 10px; border: 1px solid #000;">
-      <div style="padding: 15px; height: 50%">
-        <p align="center"> Resolución de conflictos <p>
-      </div>
-    </td>
-    <td style="width: 50%; padding: 5px; border: 1px solid #000;">
-      <div style="padding: 15px; height: 50%">
-        <p align="center"> Pensamiento Crítico <p>
-      </div>
-    </td>
-  </tr>
-  <!-- Fila 2 -->
-  <tr>
-    <td style="width: 50%; padding: 10px; border: 1px solid #333;">
-      <div style="padding: 15px; height: 50%">
-        <p align="center"> Trabajo en Equipo <p>
-      </div>
-    </td>
-    <td style="width: 50%; padding: 10px; border: 1px solid #333;">
-      <div style="padding: 15px; height: 50%">
-        <p align="center"> Atención al Detalle <p>
-      </div>
-    </td>
-  </tr>
-    <!-- Fila 3 -->
-  <tr>
-    <td style="width: 50%; padding: 10px; border: 1px solid #333;">
-      <div style="padding: 15px; height: 50%">
-        <p align="center"> Comunicación Asertiva <p>
-      </div>
-    </td>
-    <td style="width: 50%; padding: 10px; border: 1px solid #333;">
-      <div style="padding: 15px; height: 50%">
-        <p align="center"> Creatividad <p>
-      </div>
-    </td>
-  </tr>
-</table>
 
 <!--
 **NicoleArrr/NicoleArrr** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
