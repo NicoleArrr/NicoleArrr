@@ -3,7 +3,7 @@
 <i align="justify"> <b> " ... </b> El futuro tiene muchos nombres: Para los débiles es lo inalcanzable. Para los temerosos, lo desconocido. Para los valientes es la oportunidad. <b align= "right"> Víctor Hugo ..."</b> </i>
 
 <h4> Perfil </h4>
-<p> Soy Técnica en Desarrollo de Software enfocada en entornos web. Estructuro e implemento soluciones digitales comprendiendo con claridad las necesidades de negocio en pro de la satisfacción del cliente y garantízando la eficiencia y mantenibilidad de los programas. </br>
+<p> Soy Técnica en Desarrollo de Software enfocada en entornos web. Estructuro e implemento soluciones digitales comprendiendo con claridad las necesidades de negocio en pro de la satisfacción del cliente y garantizando la eficiencia y mantenibilidad de los programas. </br>
 
 Mis tiempos libres usualmente los dedico a aprender sobre UI/UX Design, Cómo mejorar mis conocimientos técnicos junto a mis habilidades frente al Sector Tecnológico reflejadas en proyectos empresariales de alta calidad.</p>
 
@@ -48,7 +48,7 @@ Mis tiempos libres usualmente los dedico a aprender sobre UI/UX Design, Cómo me
 </div>
 
 
-<img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExYzFhNjI2YmQ5ZDY4ZDI4ZDJmNDRhMzFkZWZkZDY1NzIxYTI1YzRlYiZlcD12MV9pbnRlcm5hbF9naWZzX2dpZklkJmN0PWc/WFZvB7VIXBgiz3oDXE/giphy.gif" width="30"/> Herramientas
+<img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExYzFhNjI2YmQ5ZDY4ZDI4ZDJmNDRhMzFkZWZkZDY1NzIxYTI1YzRlYiZlcD12MV9pbnRlcm5hbF9naWZzX2dpZklkJmN0PWc/WFZvB7VIXBgiz3oDXE/giphy.gif" width="30"/> <strong> Herramientas </strong>
 
 <div align="center">
   <img src="https://skillicons.dev/icons?i=git,vscode,figma,&perline=7" alt="Tech stack" />
@@ -66,4 +66,5 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
+
 -->
