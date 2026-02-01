@@ -6,7 +6,6 @@
 
 <h4> Perfil </h4>
 <p> Soy Técnica en Desarrollo de Software enfocada en entornos web. Estructuro e implemento soluciones digitales comprendiendo con claridad las necesidades de negocio en pro de la satisfacción del cliente y garantizando la eficiencia y mantenibilidad de los programas. </br>
-Actualmente interesada por encontrar proyectos empresariales innovadores donde aplicar mis conocimientos adquiridos y generar impacto a través de estos en el sector de las TIC.
 
 Mis tiempos libres usualmente los dedico a aprender sobre UI/UX Design, Cómo mejorar mis conocimientos técnicos junto a mis habilidades</p>
 
